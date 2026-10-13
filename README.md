@@ -439,7 +439,7 @@ MIT License. Tambahkan berkas `LICENSE` di root repositori agar lisensi berlaku 
 
 ### Kontak
 
-Email: raihanalrajab108l@gmail.com
+Email: raihanalrajab108@gmail.com
 
 ---
 
